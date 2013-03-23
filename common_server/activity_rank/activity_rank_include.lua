@@ -1,0 +1,5 @@
+require("activity_rank.activity_rank_loader")
+require("activity_rank.activity_rank_mgr")
+require("activity_rank.activity_rank_type.rank_base")
+require("activity_rank.activity_rank_type.rank_charm")
+require("activity_rank.activity_rank_process")

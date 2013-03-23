@@ -1,0 +1,2 @@
+
+require("faction_resource_exchange.faction_resource_exchange_process")

@@ -1,0 +1,16 @@
+
+
+require("config.reward_config")
+require("reward.login_reward_l.reward")
+require("reward.login_reward_l.day_reward")
+require("reward.login_reward_l.week_reward")
+require("reward.login_reward_l.festival_reward")
+require("reward.login_reward_l.continuous_reward")
+require("reward.login_reward_l.rechage_gift")
+require("reward.login_reward_l.reward_t_mgr")
+require("reward.login_reward_l.novice_reward")
+require("reward.login_reward_l.rechage_reward")
+require("reward.login_reward_l.reward_process")
+require("reward.login_reward_l.loader.add_login_loader")
+require("reward.login_reward_l.add_login_reward")
+require("reward.login_reward_l.sign_in_reward")
