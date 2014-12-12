@@ -1,3 +1,4 @@
+-- git 提交测试
 math.randomseed(os.time())
 
 require("server_info")
